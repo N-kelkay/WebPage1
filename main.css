@@ -1,11 +1,8 @@
-.darkBG {
-    background: #999;
+.myPanel {
+    margin: 3%;
 }
 
-.darkerBG {
-    background: #666;
-}
-
-.darkestBG {
-    background: #333;
+.myPanel .heading {
+    background: #B6F0C4;
+    padding: 10px 20px;
 }
